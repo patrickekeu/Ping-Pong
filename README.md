@@ -1,6 +1,8 @@
 # Ping-Pong
 Create a 2-Player Version of Pong
 
+April 25, 2024
+
 Pong is one of the earliest video games, created in the early 1970’s by Atari. The game was immensely popular and almost single-handedly launched the video game industry. You can play a version of the game at https://www.ponggame.org. For this project you will create a 2-player version of Pong.  
 
 Your game should adhere to the following specifications: 
